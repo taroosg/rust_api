@@ -1,0 +1,14 @@
+[
+  {
+    "name": "hoge",
+    "status": "good"
+  },
+  {
+    "name": "fuga",
+    "status": "bad"
+  },
+  {
+    "name": "piyo",
+    "status": "neutral"
+  }
+]

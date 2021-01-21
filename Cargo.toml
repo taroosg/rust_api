@@ -1,5 +1,5 @@
 [package]
-name = "rust-api"
+name = "rust_api"
 version = "0.1.0"
 authors = ["taroosg <root@taroosg.dev>"]
 edition = "2018"
